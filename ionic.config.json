@@ -1,0 +1,8 @@
+{
+  "name": "SGID_alumnosApp",
+  "app_id": "c8e1bc54",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
